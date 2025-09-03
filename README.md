@@ -4,14 +4,14 @@ This guide is meant to let you explore and investigate to understand the Christi
 
 While it may start with the basics it is meant to become a comprehensive collection of information of the basics to advanced topics
 
-Head to [[Fundamentals]] to start or restart your journey! 
+Head to [Fundamentals](Fundamentals/Fundamentals.md) to start or restart your journey! 
 
 ---
 # Sections
 ## Fundamentals
 The core concepts to understand the rest; which may include God, Jesus, Gospel, Salvation, etc. You can return here if you're stuck or need a refresher
 
-[Click to enter](Fundamentals)
+[Click to enter](Fundamentals/Fundamentals.md)
 
 ## Scripture
 Anything related to the Bible itself.
