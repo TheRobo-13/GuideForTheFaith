@@ -1,4 +1,4 @@
-# Welcome to the Guide for Christianity
+# Welcome to the Guide for The Faith: Christianity Explained
 
 This guide is meant to let you explore and investigate to understand the Christian faith. 
 
