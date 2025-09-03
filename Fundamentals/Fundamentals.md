@@ -1,4 +1,4 @@
-[Return to Overview](Overview)
+[Return to Overview](../Overview.md)
 Welcome to Fundamentals, each note goes over the basics and main parts for understanding Christianity and things related to it. 
 
 ## God
