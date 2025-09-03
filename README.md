@@ -4,7 +4,7 @@ This guide is meant to let you explore and investigate to understand the Christi
 
 While it may start with the basics it is meant to become a comprehensive collection of information of the basics to advanced topics
 
-Head to [Fundamentals](Fundamentals/Fundamentals.md) to start or restart your journey! 
+Head to [Fundamentals](Fundamentals/Fundamentals.md) to start or restart your journey!  
 
 ---
 # Sections
